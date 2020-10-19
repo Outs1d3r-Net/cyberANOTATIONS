@@ -1,6 +1,6 @@
 ## ANOTACOES PARA PENTESTS  
+[![Banner](banner.png)]()
 > Aqui eu deixo algumas de minhas anotações uteis para blueteam e redteam, você vai encontrar Taticas Tecnicas e Procedimentos para ataque e defesa cibernetica.  
-
 
 ### Guias para pentests
 > [dicas, truques e guias de campo]  
